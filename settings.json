@@ -1,0 +1,12 @@
+{
+  "token": "ODUzMTUxMTkxMDAxMzMzNzgx.YMRM9g.A9a1oowcXh5ih0oV3bbL7gpv-Cc",
+  "prefix" : "Ds/",
+  "owner" : ["852720882659885087","812771700910325861",""],
+  "clientid" : "853151191001333781",
+  "clientsecret" : "dzhTOUIzz41O9HMhMU7M3Am-9HQJyKiD",
+  "clientcallback" : "https://discordspacelistga.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://TestList:awadeowo@cluster0.vojcl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "serverID": "838571606498082836",
+  "footer": "DiscordSpaceList &copy Todos Los Derechos Reservados",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
